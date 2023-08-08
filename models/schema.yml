@@ -28,6 +28,6 @@ models:
         tests:
           - not_null
           - accepted_values: 
-            ['T-shirt', 'Short', 'Legging', 'Crop-top', 'Top', 'Accessories']
+              values: ['T-shirt', 'Short', 'Legging', 'Crop-top', 'Top', 'Accessories']
       
           
